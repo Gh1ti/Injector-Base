@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Gh1ti\Desktop\injector-base\injector-base1\injector-base1\main.cpp(4,28): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\Gh1ti\Desktop\injector-base\injector-base1\injector-base1\main.cpp(8,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Gh1ti\Desktop\injector-base\injector-base1\injector-base1\main.cpp(8,13): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Gh1ti\Desktop\injector-base\injector-base1\injector-base1\main.cpp(8,13): message : the missing variadic argument 2 is required by format string '%s'
+C:\Users\Gh1ti\Desktop\injector-base\injector-base1\injector-base1\main.cpp(8,13): message : this argument is used as a buffer size
+  Generating code
+  2 of 90 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  injector-base1.vcxproj -> C:\Users\Gh1ti\Desktop\injector-base\injector-base1\x64\Release\injector-base1.exe
